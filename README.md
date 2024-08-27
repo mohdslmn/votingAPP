@@ -1,13 +1,13 @@
 <div align="center">
   <br />
-      <img src="./votePic.jpg" alt="Project Banner">
+      <img src="./votePic.jpg" alt="Project Banner" width="850" height="450">
     </a>
   <br />
 
   <h3 align="center">A Voting App</h3>
 
    <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="" target="_blank"><b>LinkedIn</b></a> 
+     Build this project step by step with our detailed tutorial on <a href="https://www.linkedin.com/posts/md-salman-dev_nodejs-expressjs-mongodb-activity-7226878321127489538-jkra?utm_source=share&utm_medium=member_desktop" target="_blank"><b>LinkedIn</b></a> 
     </div>
 
 </div>
